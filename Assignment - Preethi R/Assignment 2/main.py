@@ -10,4 +10,4 @@ while(True):
         print("Sound Alarm On..!") 
     else: 
         print("Sound off..!") 
-        break s
+        break 
