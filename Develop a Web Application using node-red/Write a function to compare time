@@ -1,0 +1,6 @@
+var d=new Date();
+var time1=d.getTime()
+d=new Date();
+time2=d.getTime()
+if(time1<=time2)
+//statement
